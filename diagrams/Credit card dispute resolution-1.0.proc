@@ -3,7 +3,7 @@
   <process:MainProcess xmi:id="_uLMc4FdIEeuhD-Wc-wMRtA" name="Credit card dispute resolution" author="Amadeus de la Luz" bonitaVersion="7.11.4" bonitaModelVersion="7.11.1-001" configId="ACED000574003043726564697420636172642064697370757465207265736F6C7574696F6E372E31312E312D303031372E31312E347370">
     <elements xmi:type="process:Pool" xmi:id="_uLMc4VdIEeuhD-Wc-wMRtA" name="CreditCardDisputeResolution" displayName="AMADEUS">
       <elements xmi:type="process:Lane" xmi:id="_uLMc4ldIEeuhD-Wc-wMRtA" name="Employee lane" actor="_uLMc-1dIEeuhD-Wc-wMRtA">
-        <elements xmi:type="process:Task" xmi:id="_uLMc51dIEeuhD-Wc-wMRtA" name="Update Dispute" type="STANDARD" overrideActorsOfTheLane="false">
+        <elements xmi:type="process:Task" xmi:id="_uLMc51dIEeuhD-Wc-wMRtA" name="Update Disputes" type="STANDARD" overrideActorsOfTheLane="false">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_uLMc6FdIEeuhD-Wc-wMRtA" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_uLMc6VdIEeuhD-Wc-wMRtA" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_uLMc6ldIEeuhD-Wc-wMRtA" name="" content="" returnTypeFixed="true"/>
